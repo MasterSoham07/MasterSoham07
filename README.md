@@ -53,7 +53,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 307 Bytes Used in GitHub's Storage 
+> 📦 308 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 66 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +115,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2024 18:37:42 UTC
+ Last Updated on 12/06/2024 18:37:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
