@@ -45,6 +45,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20thousand%20lines%20of%20code-blue)
@@ -59,6 +61,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                31 commits          ████████████░░░░░░░░░░░░░   49.21 % 
+🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Sunday                   33 commits          █████████████░░░░░░░░░░░░   52.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -72,7 +113,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:35:48 UTC
+ Last Updated on 16/06/2024 18:36:08 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
