@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 312 Bytes Used in GitHub's Storage 
+> 📦 313 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +113,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:34:35 UTC
+ Last Updated on 24/06/2024 18:36:56 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
