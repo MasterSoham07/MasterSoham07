@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 340 Bytes Used in GitHub's Storage 
+> 📦 352 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,16 +88,16 @@ Sunday                   33 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 4 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Problem-Solving          1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +113,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2024 18:35:40 UTC
+ Last Updated on 04/07/2024 18:36:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
