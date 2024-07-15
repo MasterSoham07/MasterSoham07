@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 385 Bytes Used in GitHub's Storage 
+> 📦 386 Bytes Used in GitHub's Storage 
  > 
 > 🏆 86 Contributions in the Year 2024
  > 
@@ -90,17 +90,16 @@ Sunday                   43 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     39 mins             █████████████████████████   99.67 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java                     24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Problem-Solving          39 mins             █████████████████████████   100.00 % 
+Problem-Solving          24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -116,7 +115,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 18:47:46 UTC
+ Last Updated on 15/07/2024 18:38:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
