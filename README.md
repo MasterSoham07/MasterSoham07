@@ -55,6 +55,8 @@
 
 > 📦 388 Bytes Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -88,16 +90,16 @@ Sunday                   43 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Problem-Solving          24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +115,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2024 18:35:40 UTC
+ Last Updated on 22/07/2024 18:38:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
