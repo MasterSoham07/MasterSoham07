@@ -45,26 +45,66 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 389 Bytes Used in GitHub's Storage 
- > 
-> 🏆 86 Contributions in the Year 2024
+> 📦 390 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+🌆 Daytime                40 commits          ████████████░░░░░░░░░░░░░   47.06 % 
+🌃 Evening                36 commits          ███████████░░░░░░░░░░░░░░   42.35 % 
+🌙 Night                  8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   43 commits          █████████████░░░░░░░░░░░░   50.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   2 hrs 50 mins       █████████████████████████   99.82 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+E-Commerce Recommendation2 hrs 50 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
-Java                     1 repo              █████████████████████████   100.00 % 
+Java                     2 repos             █████████████████████████   100.00 % 
 ```
 
 
@@ -74,7 +114,7 @@ Java                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:40:05 UTC
+ Last Updated on 25/07/2024 18:35:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
