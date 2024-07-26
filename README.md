@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 390 Bytes Used in GitHub's Storage 
+> 📦 392 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,17 +88,19 @@ Sunday                   43 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       █████████████████████████   99.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   5 hrs 28 mins       █████████████████████░░░░   82.04 % 
+Java                     1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-E-Commerce Recommendation2 hrs 50 mins       █████████████████████████   100.00 % 
+E-Commerce Recommendation5 hrs 29 mins       █████████████████████░░░░   82.12 % 
+Striver SDE Sheet        1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -114,7 +116,7 @@ Java                     2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 18:35:55 UTC
+ Last Updated on 26/07/2024 18:36:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
