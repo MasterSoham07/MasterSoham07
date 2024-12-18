@@ -90,17 +90,16 @@ Sunday                   46 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   27 mins             ████████████████████████░   97.46 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Desktop                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -118,7 +117,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 18:45:19 UTC
+ Last Updated on 18/12/2024 18:43:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
