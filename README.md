@@ -88,18 +88,16 @@ Sunday                   46 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████░░░░   82.73 % 
-XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Properties               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FirstJobApp              0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -117,7 +115,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2025 18:44:34 UTC
+ Last Updated on 10/04/2025 18:42:56 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
