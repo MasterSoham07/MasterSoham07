@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,19 @@ Sunday                   46 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     41 mins             ██████████████████░░░░░░░   70.32 % 
+Properties               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+XML                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+FirstJobApp              58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -115,7 +118,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 18:45:32 UTC
+ Last Updated on 15/04/2025 18:44:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
