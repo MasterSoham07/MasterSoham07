@@ -55,8 +55,6 @@
 
 > 📦 100.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -118,7 +116,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2025 18:49:24 UTC
+ Last Updated on 26/06/2025 18:48:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
