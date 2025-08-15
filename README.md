@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,6 +54,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 100.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -88,20 +90,17 @@ Sunday                   46 commits          ███████████�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ████████████████████████░   95.31 % 
-Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Python                   1 hr 56 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ████████████████████████░   95.31 % 
-IntelliJ IDEA            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Code                     53 mins             ██████████████████░░░░░░░   72.18 % 
-Self Learning            17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-JAVA                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Code                     1 hr 37 mins        █████████████████████░░░░   83.19 % 
+Self Learning            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +118,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham07/MasterSoham07/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 18:50:41 UTC
+ Last Updated on 15/08/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
